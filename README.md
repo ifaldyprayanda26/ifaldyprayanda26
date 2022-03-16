@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ifaldyprayanda26
-- Saya seorang **Computer Setup** di [Mabes TNI](https://www.tni.mil.id/) in [Kementerian Pertahanan RI](https://kemhan.go.id/) .
+- I'm a **Computer Setup** at [Mabes TNI](https://www.tni.mil.id/) in [Kementerian Pertahanan RI](https://kemhan.go.id/) .
 - 👀 I’m interested in Database and Software Development.
 - 🌱 I’m currently learning Database Architecture and Software Development.
 - 💞️ I’m looking to collaborate on Database and Software Development.
 - 📫 How to reach me via E-mail ifaldyprayanda@gmail.com
-- Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ifaldy-prayanda-3263a2186/)ku ya. 
+- If you interested to introduce myself, Let's follow my [Linkedin](https://www.linkedin.com/in/ifaldy-prayanda-3263a2186/). 
 
 <p align="left">
 <a href="https://github.com/ifaldyprayanda26">
